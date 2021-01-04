@@ -23,7 +23,7 @@
 
 ## 📈  Stats
 
-<div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center;'>
+<div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center; align-self:center'>
   <div style='margin-right:7px'>
     <a href="https://github.com/yonatan119/yonatan119">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatan119&hide=c%2B%2B,c%23&theme=react" />
