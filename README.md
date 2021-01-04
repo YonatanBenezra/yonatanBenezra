@@ -22,7 +22,7 @@
 ---
 
 ## 📈  Stats
-
+<--
 <div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center; align-self:center'>
   <div style='margin-right:7px'>
     <a href="https://github.com/yonatan119/yonatan119">
@@ -35,4 +35,4 @@
     </a>
   </div>
 </div>
-
+-->
