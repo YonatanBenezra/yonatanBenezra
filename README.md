@@ -21,7 +21,9 @@
 
 Projects I made:
 <br/>
+<br/>
 <a href="https://intelligentinvestorsgroup.gtsb.io/" >Intelligent Investors Group</a>
+<br/>
 <br/>
 <a href="https://reflix-streamer.herokuapp.com/">Reflix</a>
 ---
