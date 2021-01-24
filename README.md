@@ -28,7 +28,7 @@ Projects I made:
 <a href="https://reflix-streamer.herokuapp.com/">Reflix</a>
 <br/>
 <br/>
-<a href="/goolo">Goolo</a>
+<a href="https://github.com/yonatan119/goolo">Goolo</a>
 ---
 <!--
 ## 📈  Stats
