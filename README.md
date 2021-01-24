@@ -20,8 +20,9 @@
 </div>
 
 ## Projects I made:
-<a href="https://intelligentinvestorsgroup.gtsb.io" >Intelligent Investors Group</a>
-<a href="http://reflix-streamer.heroku.app">Reflix</a>
+<a href="https://intelligentinvestorsgroup.gtsb.io/" >Intelligent Investors Group</a>
+<br><br>
+<a href="https://reflix-streamer.herokuapp.com/">Reflix</a>
 ---
 <!--
 ## 📈  Stats
