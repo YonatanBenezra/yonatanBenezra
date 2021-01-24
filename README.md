@@ -19,8 +19,9 @@
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </div>
 
-## Projects I made :):
-<a href="https://intelligentinvestorsgroup.gtsb.io"  target="_blank" rel="noopener noreferrer" >Intelligent Investors Group</a>
+## Projects I made:
+<a href="https://intelligentinvestorsgroup.gtsb.io" >Intelligent Investors Group</a>
+<a href="http://reflix-streamer.heroku.app">Reflix</a>
 ---
 <!--
 ## 📈  Stats
