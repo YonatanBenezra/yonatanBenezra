@@ -20,7 +20,7 @@
 </div>
 
 ## Projects I made :):
-<a href="intelligentinvestorsgroup.gtsb.io">Intelligent Investors Group</a>
+<a href="https://intelligentinvestorsgroup.gtsb.io">Intelligent Investors Group</a>
 ---
 <!--
 ## 📈  Stats
