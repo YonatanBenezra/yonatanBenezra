@@ -10,8 +10,6 @@
 
 <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
 
-<img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
-
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,15 +18,16 @@
 </div>
 
 Projects I made:
+<a href="https://yonatan119.netlify.com">Portfolio</a>
 <br/>
 <br/>
-<a href="https://intelligentinvestorsgroup.gtsb.io/" >Intelligent Investors Group</a>
+<a href="goolo.tk">Goolo e-commerce app</a>
 <br/>
 <br/>
-<a href="https://reflix-streamer.herokuapp.com/">Reflix</a>
+<a href="https://triple-i-group.com" >Intelligent Investors Group - website</a>
 <br/>
 <br/>
-<a href="https://github.com/yonatan119/goolo">Goolo</a>
+<a href="https://shaalilachkelim.com/">shaali lach kelim - website</a>
 ---
 <!--
 ## 📈  Stats
