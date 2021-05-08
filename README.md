@@ -23,7 +23,7 @@ Projects I made:
 <a href="https://yonatan119.netlify.com">Portfolio</a>
 <br/>
 <br/>
-<a href="goolo.tk">Goolo e-commerce app</a>
+<a href="https://goolo.tk">Goolo e-commerce app</a>
 <br/>
 <br/>
 <a href="https://triple-i-group.com" >Intelligent Investors Group - website</a>
@@ -31,19 +31,3 @@ Projects I made:
 <br/>
 <a href="https://shaalilachkelim.com/">shaali lach kelim - website</a>
 ---
-<!--
-## 📈  Stats
-
-<div style='list-style-type: none;  display:flex; justify-content:space-between; align-items:center; align-self:center'>
-  <div style='margin-right:7px'>
-    <a href="https://github.com/yonatan119/yonatan119">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatan119&hide=c%2B%2B,c%23&theme=react" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/yonatan119/yonatan119">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonatan119&show_icons=true&line_height=27&count_private=true&hide=stars&theme=react" alt="Yonatan's GitHub Stats" />
-    </a>
-  </div>
-</div>
-..>
